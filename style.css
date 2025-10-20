@@ -2,8 +2,14 @@ body{
     background-color: gray;
 }
 h1{
-    color: blue;
+    color: aqua;
     justify-content: center;
     display: flex;
     align-items: center;
+    margin-top:300px;
+}
+button{
+    background-color: bisque;
+    margin-left: 700px;
+    border-radius: 25px 25px;
 }
